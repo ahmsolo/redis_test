@@ -1,6 +1,7 @@
 from settings import r
 import sys
 
+
 if __name__ == '__main__':
     name = sys.argv[1]
     channel = sys.argv[2]
